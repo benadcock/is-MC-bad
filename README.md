@@ -3,7 +3,7 @@ Code used to generate the figures in the article "Is Monte Carlo a bad sampling 
 
 ## Article's abstract
 
-## How to use this code
+## Code organization
 
 ### Disclaimer
 
